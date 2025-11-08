@@ -1,5 +1,5 @@
 # dspd
-
+MSPA-1
 1 A.	Write a program to accept ‘n’ numbers into an array and then calculate the sum of numbers present in odd positions and even positions respectively.	
 
 B.	Write a program to implement a Binary Search algorithm. Write a search function which takes a SearchList as its first parameter and a Comparable as its second. If either parameter is null, or if the SearchList is empty, you should return NULL.
@@ -20,6 +20,8 @@ e. Display the status of Stack
 f. Exit 
 Support the program with appropriate functions for each of the above operations.	
 
+MSPA-2
+
 3	Design, Develop and Implement a menu driven Program in C for the following operations on QUEUE of Characters (Array Implementation of Queue with maximum size MAX)
 a. Insert an Element on to QUEUE
 b. Delete an Element from QUEUE
@@ -30,7 +32,7 @@ Support the program with appropriate functions for each of the above operations.
 
 4	 This C program creates a linked list to store integer elements. It prompts the user to enter elements and add them to the list until the user enters 0. It then traverses the list and prints each element and "=>" until reaching the null pointer. Finally, it displays the number of nodes in the list.
 	
-
+MSPA-3
 5	Write a program to insert Number of Nodes in the Binary Tree and Traverse in Inorder , Preorder and Post Order and  Search an element in Binary Tree(Display NULL if not found, If found Display Found)
 
 	
@@ -41,6 +43,8 @@ Support the program with appropriate functions for each of the above operations.
 4.	Exit
 
 	
+MSPA-4
+
 
 7	 Consider the undirected graph G, consisting of n nodes laid out in a 3 -by- 3 grid: Start searching at node 1, and break ties for exploring the next node based on lower numerical order (i.e. add nodes to a queue low to high, add nodes to a stack high to low). (a) In what order are nodes marked as explored by BFS? (b) In what order are nodes marked as explored by DFS?
 	
